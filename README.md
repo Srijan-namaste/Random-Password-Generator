@@ -1,2 +1,6 @@
 # Random-Password-Generator
-It is a βeta version, allows you to generate random passwords &amp; allows you to choose weather you want to include Upper Case, Lower Case, Numbers, symbol, all of them together or some of them.
+It is a βeta version, that allows you to generate random passwords
+& allows you to choose whether you want to include Upper Case,
+Lowercase, Numbers, symbols, all of them together, or some of them.
+Although it lacks customizability on the user end that will be fixed
+in later versions.
